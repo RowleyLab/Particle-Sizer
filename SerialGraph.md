@@ -4,7 +4,7 @@ title: SerialGraph
 ---
 
 SerialGraph
-===========
+-----------
 
 SerialGraph is the user interface software. It was written using the excellent Processing development platform, found at [processing.org/](https://processing.org/)
 
