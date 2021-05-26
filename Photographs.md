@@ -18,7 +18,7 @@ Photographs and Figures
 
 ![Enclosure](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Box.JPG){:height="50%" width="50%"}
 
-![Diode Bracket](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Diode%20Bracket%20v7.png){:height="50%" width="50%"}
+![Diode Bracket](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Diode%20Bracket%20v7.png)
 
 ![Amplifier Schematic](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Amplifier_Schematic.png){:height="50%" width="50%"}
 

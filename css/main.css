@@ -23,7 +23,7 @@ p {
 h2 {
 	padding-left: 20px;
 	text-align: left;
-	font-size: 2.6rem;
+	font-size: 1.8rem;
 }
 
 h3 {
@@ -73,6 +73,10 @@ video {
 }
 
 .rotate-90 {
+	padding-left: 30px;
+	min-width: 75%;
+	max-width: 80%;
+	flex:1
     -webkit-transform: rotate(90deg);
         -ms-transform: rotate(90deg);
             transform: rotate(90deg);
