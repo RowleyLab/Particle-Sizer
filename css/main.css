@@ -71,3 +71,9 @@ video {
 	padding-top: -20px;
     padding-bottom: 20px;
 }
+
+.rotate-90 {
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+}
