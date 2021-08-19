@@ -10,6 +10,8 @@ Photographs and Figures
 
 ![Top View](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/TopView.JPG){:height="50%" width="50%"}
 
+![Microfluidic Device](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Microfluidic.JPG){:height="50%" width="50%"}
+
 ![Sample Stage](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Sample.JPG){:height="50%" width="50%"}
 
 ![Polychromator Stage](https://github.com/RowleyLab/Particle-Sizer/raw/master/Design_Files/Polychromator.JPG){:height="50%" width="50%"}
